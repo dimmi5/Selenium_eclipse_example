@@ -2,19 +2,19 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="softwaretestingmaterial" duration-ms="37589" started-at="2018-08-04T16:30:39Z" finished-at="2018-08-04T16:31:16Z">
+  <suite name="softwaretestingmaterial" duration-ms="39106" started-at="2018-08-04T17:33:56Z" finished-at="2018-08-04T17:34:35Z">
     <groups>
     </groups>
-    <test name="testngTest" duration-ms="37589" started-at="2018-08-04T16:30:39Z" finished-at="2018-08-04T16:31:16Z">
+    <test name="testngTest" duration-ms="39106" started-at="2018-08-04T17:33:56Z" finished-at="2018-08-04T17:34:35Z">
       <class name="c1.NewTestNGTest">
-        <test-method status="PASS" signature="TestFireFox1()[pri:0, instance:c1.NewTestNGTest@5b275dab]" name="TestFireFox1" duration-ms="37566" started-at="2018-08-04T16:30:39Z" finished-at="2018-08-04T16:31:16Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- TestFireFox1 -->
-        <test-method status="PASS" signature="TestChrome1()[pri:0, instance:c1.NewTestNGTest@5b275dab]" name="TestChrome1" duration-ms="35037" started-at="2018-08-04T16:30:39Z" finished-at="2018-08-04T16:31:14Z">
+        <test-method status="PASS" signature="TestChrome1()[pri:0, instance:c1.NewTestNGTest@5b275dab]" name="TestChrome1" duration-ms="38981" started-at="2018-08-04T17:33:56Z" finished-at="2018-08-04T17:34:35Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestChrome1 -->
+        <test-method status="PASS" signature="TestFireFox1()[pri:0, instance:c1.NewTestNGTest@5b275dab]" name="TestFireFox1" duration-ms="39083" started-at="2018-08-04T17:33:56Z" finished-at="2018-08-04T17:34:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestFireFox1 -->
       </class> <!-- c1.NewTestNGTest -->
     </test> <!-- testngTest -->
   </suite> <!-- softwaretestingmaterial -->
