@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" name="Failed suite [softwaretestingmaterial]" parallel="methods">
+  <test thread-count="2" name="testngTest(failed)" parallel="methods">
+    <classes>
+      <class name="c1.NewTestNGTest">
+        <methods>
+          <include name="TestChrome"/>
+          <include name="TestFireFox"/>
+        </methods>
+      </class> <!-- c1.NewTestNGTest -->
+    </classes>
+  </test> <!-- testngTest(failed) -->
+</suite> <!-- Failed suite [softwaretestingmaterial] -->
